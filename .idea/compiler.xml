@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="shop-admin-core-service" />
+        <module name="shop-admin-common-dal" />
+        <module name="shop-admin-common-util" />
+        <module name="voucher" />
+        <module name="voucherDemo" />
+        <module name="shop-admin-web" />
+        <module name="shop-admin-core-model" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="esnk-admin" target="1.8" />
+      <module name="shop-admin-common-dal" target="1.5" />
+      <module name="shop-admin-common-util" target="1.5" />
+      <module name="shop-admin-core-model" target="1.5" />
+      <module name="shop-admin-core-service" target="1.8" />
+      <module name="shop-admin-web" target="1.8" />
+      <module name="voucher" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="shop-admin-core-service" options="-parameters" />
+      <module name="shop-admin-web" options="-parameters" />
+      <module name="voucher" options="-parameters" />
+    </option>
+  </component>
+</project>

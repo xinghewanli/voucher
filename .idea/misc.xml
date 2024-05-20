@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../../redis/hm-dianping/pom.xml" />
+        <option value="$PROJECT_DIR$/voucherDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-admin-web/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-admin-core-service/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-admin-core-model/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-admin-common-util/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-admin-common-dal/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/voucherDemo/shop-admin-web/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
