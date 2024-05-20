@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../redis/hm-dianping/hm-dianping.iml" filepath="$PROJECT_DIR$/../redis/hm-dianping/hm-dianping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop/shop.iml" filepath="$PROJECT_DIR$/shop/shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop/shop-admin-common-dal/shop-admin-common-dal.iml" filepath="$PROJECT_DIR$/shop/shop-admin-common-dal/shop-admin-common-dal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop/shop-admin-common-service-facade/shop-admin-common-service-facade.iml" filepath="$PROJECT_DIR$/shop/shop-admin-common-service-facade/shop-admin-common-service-facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop/shop-admin-common-service-integration/shop-admin-common-service-integration.iml" filepath="$PROJECT_DIR$/shop/shop-admin-common-service-integration/shop-admin-common-service-integration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop/shop-admin-common-util/shop-admin-common-util.iml" filepath="$PROJECT_DIR$/shop/shop-admin-common-util/shop-admin-common-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop/shop-admin-core-model/shop-admin-core-model.iml" filepath="$PROJECT_DIR$/shop/shop-admin-core-model/shop-admin-core-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop/shop-admin-web/shop-admin-web.iml" filepath="$PROJECT_DIR$/shop/shop-admin-web/shop-admin-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/voucher.iml" filepath="$PROJECT_DIR$/.idea/voucher.iml" />
+    </modules>
+  </component>
+</project>
