@@ -7,40 +7,28 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="shop-admin-common-service-integration" />
         <module name="shop-admin-core-model" />
         <module name="shop-admin-common-dal" />
         <module name="shop-admin-common-util" />
         <module name="shop-admin-core-service" />
-        <module name="shop-admin-common-service-facade" />
-        <module name="hm-dianping" />
         <module name="shop-admin-web" />
-        <module name="shop-sdmin-core-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
-      <module name="hm-dianping" target="1.8" />
-      <module name="shop" target="1.8" />
       <module name="shop-admin-common-dal" target="1.8" />
-      <module name="shop-admin-common-service-facade" target="1.8" />
-      <module name="shop-admin-common-service-integration" target="1.8" />
       <module name="shop-admin-common-util" target="1.8" />
       <module name="shop-admin-core-model" target="1.8" />
       <module name="shop-admin-web" target="1.8" />
-      <module name="shop-sdmin-core-service" target="1.8" />
+      <module name="shop-admin-core-service" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="hm-dianping" options="-parameters" />
-      <module name="shop" options="-parameters" />
-      <module name="shop-admin-common-dal" options="-parameters" />
-      <module name="shop-admin-common-service-facade" options="-parameters" />
-      <module name="shop-admin-common-service-integration" options="-parameters" />
       <module name="shop-admin-common-util" options="-parameters" />
       <module name="shop-admin-core-model" options="-parameters" />
       <module name="shop-admin-web" options="-parameters" />
-      <module name="shop-sdmin-core-service" options="-parameters" />
+      <module name="shop-admin-core-service" options="-parameters" />
+      <module name="shop-admin-web" options="-parameters" />
     </option>
   </component>
 </project>
