@@ -19,8 +19,23 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42e79c91-2ad8-4328-9f65-22f4f042048f" name="Default Changelist" comment="voucher init">
-      <change beforePath="$PROJECT_DIR$/voucher/test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/voucher/test.xml" afterDir="false" />
+    <list default="true" id="210990b3-2c4a-4f03-8a29-d5df7b05f4f9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/shop/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/shop-admin-common-dal/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/shop-admin-common-service-facade/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/shop-admin-common-service-integration/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/shop-admin-common-util/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/shop-admin-core-model/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/shop-admin-web/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/shop-admin-web/src/main/java/com/voucher/demo/DemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/shop-admin-web/src/main/java/com/voucher/demo/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/shop-admin-web/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/shop-sdmin-core-service/pom.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +55,7 @@
         <entry key="$PROJECT_DIR$/voucher" value="main" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/voucher" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -58,7 +73,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2gdCq57aAuNxoTvsaJV8OboNFRs" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -100,6 +117,53 @@
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.DemoApplication">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="voucher" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="voucher" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="shop-admin-web" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.voucher.demo.DemoApplication" />
@@ -149,9 +213,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LAST_COMMIT_MESSAGE" value="" />
+    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="277" y="0" width="741" height="672" key="#DemoApplication" timestamp="1716031539893">
@@ -190,10 +256,10 @@
       <screen x="0" y="0" width="1280" height="672" />
     </state>
     <state x="342" y="19" key="FileChooserDialogImpl/0.0.1280.672@0.0.1280.672" timestamp="1716031678844" />
-    <state width="203" height="503" key="Git.Branch.Popup" timestamp="1716035037671">
+    <state width="207" height="507" key="Git.Branch.Popup" timestamp="1716211242572">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state width="203" height="503" key="Git.Branch.Popup/0.0.1280.672@0.0.1280.672" timestamp="1716035037671" />
+    <state width="207" height="507" key="Git.Branch.Popup/0.0.1280.672@0.0.1280.672" timestamp="1716211242572" />
     <state width="987" height="143" key="GridCell.Tab.0.bottom" timestamp="1716035046915">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
@@ -242,6 +308,14 @@
       <screen x="0" y="0" width="1280" height="672" />
     </state>
     <state width="987" height="143" key="GridCell.Tab.2.right/0.0.1280.672@0.0.1280.672" timestamp="1716035046915" />
+    <state x="122" y="50" key="MergeDialog" timestamp="1716211600224">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="122" y="50" key="MergeDialog/0.0.1280.672@0.0.1280.672" timestamp="1716211600224" />
+    <state x="57" y="35" width="1223" height="437" key="MultipleFileMergeDialog" timestamp="1716211688984">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="57" y="35" width="1223" height="437" key="MultipleFileMergeDialog/0.0.1280.672@0.0.1280.672" timestamp="1716211688984" />
     <state x="227" y="40" key="NewModule_or_Project.wizard" timestamp="1716031283542">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
@@ -258,6 +332,10 @@
       <screen x="0" y="0" width="1280" height="672" />
     </state>
     <state x="339" y="39" width="603" height="594" key="find.popup/0.0.1280.672@0.0.1280.672" timestamp="1716018355467" />
+    <state x="0" y="49" key="git4idea.branch.GitSmartOperationDialog" timestamp="1716211247550">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="0" y="49" key="git4idea.branch.GitSmartOperationDialog/0.0.1280.672@0.0.1280.672" timestamp="1716211247550" />
     <state x="187" y="97" width="1093" height="549" key="new project wizard" timestamp="1716032904690">
       <screen x="0" y="0" width="1280" height="672" />
     </state>

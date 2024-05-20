@@ -7,26 +7,25 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="shop-admin-core-model" />
+        <module name="shop-admin-web" />
         <module name="shop-admin-common-dal" />
         <module name="shop-admin-common-util" />
         <module name="shop-admin-core-service" />
-        <module name="shop-admin-web" />
+        <module name="shop-admin-core-model" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
-      <module name="shop-admin-common-dal" target="1.8" />
-      <module name="shop-admin-common-util" target="1.8" />
-      <module name="shop-admin-core-model" target="1.8" />
-      <module name="shop-admin-web" target="1.8" />
+      <module name="shop-admin-common-dal" target="1.5" />
+      <module name="shop-admin-common-util" target="1.5" />
+      <module name="shop-admin-core-model" target="1.5" />
       <module name="shop-admin-core-service" target="1.8" />
+      <module name="shop-admin-web" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="shop-admin-common-util" options="-parameters" />
-      <module name="shop-admin-core-model" options="-parameters" />
-      <module name="shop-admin-web" options="-parameters" />
+      <module name="shop-admin-common-util" options="" />
+      <module name="shop-admin-core-model" options="" />
       <module name="shop-admin-core-service" options="-parameters" />
       <module name="shop-admin-web" options="-parameters" />
     </option>
