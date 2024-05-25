@@ -20,22 +20,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="210990b3-2c4a-4f03-8a29-d5df7b05f4f9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/shop/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop/shop-admin-common-dal/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop/shop-admin-common-service-facade/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop/shop-admin-common-service-integration/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop/shop-admin-common-util/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop/shop-admin-core-model/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop/shop-admin-web/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop/shop-admin-web/src/main/java/com/voucher/demo/DemoApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop/shop-admin-web/src/main/java/com/voucher/demo/test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop/shop-admin-web/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop/shop-sdmin-core-service/pom.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_support_2_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_2_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jdbc_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jdbc_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_relational_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_relational_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_6_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_6_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_6_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_3_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_6_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_6_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_6_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_6_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_6_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-admin-common-dal/src/main/java/com/shop/admin/common/dal/domain/voucher/VoucherTemplateDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-admin-common-dal/src/main/java/com/shop/admin/common/dal/mapper/voucher/VoucherTemplateMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-admin-common-dal/src/main/resources/com.shop.admin.common.dal/mapper/voucher/VoucherTemplateMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-admin-core-service/src/main/java/com/shop/admin/core/service/service/VoucherTemplateService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-admin-core-service/src/main/java/com/shop/admin/core/service/service/impl/VoucherTemplateImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-admin-web/src/main/java/com/voucher/demo/controller/prize/prizeConfigControllrer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-admin-web/src/main/java/com/voucher/demo/controller/prize/prizeInfoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-admin-web/src/main/java/com/voucher/demo/controller/voucher/voucherPlanController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-admin-web/src/main/java/com/voucher/demo/controller/voucher/voucherTemplateController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-admin-common-dal/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-admin-common-dal/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-admin-common-dal/shop-admin-common-dal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-admin-common-dal/shop-admin-common-dal.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-admin-core-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-admin-core-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-admin-core-service/shop-admin-core-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-admin-core-service/shop-admin-core-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-admin-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-admin-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-admin-web/shop-admin-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-admin-web/shop-admin-web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-admin-web/src/main/java/com/voucher/demo/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-admin-web/src/main/java/com/voucher/demo/DemoApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +69,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -90,11 +115,12 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../redis/hm-dianping" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/shop-admin-common-dal/src/main/resources/com.shop.admin.common.dal/mapper/voucher" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.28045976" />
@@ -105,10 +131,17 @@
     <option name="notificationShown" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.shop.admin.common.dal.domain.voucher" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Project\cch\voucher\voucher\shop-admin-common-dal\src\main\resources\com.shop.admin.common.dal\mapper\voucher" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.shop.admin.common.dal.mapper.voucher" />
       <recent name="com.voucher.demo" />
       <recent name="" />
     </key>
@@ -190,14 +223,24 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="42e79c91-2ad8-4328-9f65-22f4f042048f" name="Default Changelist" comment="" />
+      <changelist id="210990b3-2c4a-4f03-8a29-d5df7b05f4f9" name="Default Changelist" comment="" />
       <created>1716018254084</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716018254084</updated>
       <workItem from="1716018255300" duration="8181000" />
       <workItem from="1716030269659" duration="4732000" />
+      <workItem from="1716254218874" duration="12000" />
+      <workItem from="1716254277295" duration="68000" />
     </task>
+    <task id="LOCAL-00001" summary="shop init">
+      <created>1716211863272</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716211863272</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,7 +259,8 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="shop init" />
+    <option name="LAST_COMMIT_MESSAGE" value="shop init" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -240,74 +284,90 @@
       <screen x="0" y="0" width="1280" height="672" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.672@0.0.1280.672" timestamp="1716033913431" />
-    <state x="305" y="260" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1716033757574">
+    <state x="446" y="42" key="#com.intellij.ide.util.MemberChooser" timestamp="1716219984158">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state x="305" y="260" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.672@0.0.1280.672" timestamp="1716033757574" />
-    <state x="264" y="217" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1716033761409">
+    <state x="446" y="42" key="#com.intellij.ide.util.MemberChooser/0.0.1280.672@0.0.1280.672" timestamp="1716219984158" />
+    <state x="305" y="260" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1716222049378">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state x="264" y="217" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1280.672@0.0.1280.672" timestamp="1716033761409" />
+    <state x="305" y="260" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.672@0.0.1280.672" timestamp="1716222049378" />
+    <state x="370" y="200" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1716216226697">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="370" y="200" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.672@0.0.1280.672" timestamp="1716216226697" />
+    <state x="264" y="217" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1716222051305">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="264" y="217" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1280.672@0.0.1280.672" timestamp="1716222051305" />
     <state x="716" y="207" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1716030686786">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
     <state x="716" y="207" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.672@0.0.1280.672" timestamp="1716030686786" />
-    <state x="342" y="19" key="FileChooserDialogImpl" timestamp="1716031678844">
+    <state x="93" y="93" width="1095" height="487" key="DiffContextDialog" timestamp="1716212044311">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state x="342" y="19" key="FileChooserDialogImpl/0.0.1280.672@0.0.1280.672" timestamp="1716031678844" />
-    <state width="207" height="507" key="Git.Branch.Popup" timestamp="1716211242572">
+    <state x="93" y="93" width="1095" height="487" key="DiffContextDialog/0.0.1280.672@0.0.1280.672" timestamp="1716212044311" />
+    <state x="342" y="19" key="FileChooserDialogImpl" timestamp="1716218142654">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state width="207" height="507" key="Git.Branch.Popup/0.0.1280.672@0.0.1280.672" timestamp="1716211242572" />
-    <state width="987" height="143" key="GridCell.Tab.0.bottom" timestamp="1716035046915">
+    <state x="342" y="19" key="FileChooserDialogImpl/0.0.1280.672@0.0.1280.672" timestamp="1716218142654" />
+    <state width="213" height="513" key="Git.Branch.Popup" timestamp="1716216134177">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state width="987" height="143" key="GridCell.Tab.0.bottom/0.0.1280.672@0.0.1280.672" timestamp="1716035046915" />
-    <state width="987" height="143" key="GridCell.Tab.0.center" timestamp="1716035046915">
+    <state width="213" height="513" key="Git.Branch.Popup/0.0.1280.672@0.0.1280.672" timestamp="1716216134177" />
+    <state width="1237" height="100" key="GridCell.Tab.0.bottom" timestamp="1716222232363">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state width="987" height="143" key="GridCell.Tab.0.center/0.0.1280.672@0.0.1280.672" timestamp="1716035046915" />
-    <state width="987" height="143" key="GridCell.Tab.0.left" timestamp="1716035046915">
+    <state width="1237" height="100" key="GridCell.Tab.0.bottom/0.0.1280.672@0.0.1280.672" timestamp="1716222232363" />
+    <state width="1237" height="100" key="GridCell.Tab.0.center" timestamp="1716222232363">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state width="987" height="143" key="GridCell.Tab.0.left/0.0.1280.672@0.0.1280.672" timestamp="1716035046915" />
-    <state width="987" height="143" key="GridCell.Tab.0.right" timestamp="1716035046915">
+    <state width="1237" height="100" key="GridCell.Tab.0.center/0.0.1280.672@0.0.1280.672" timestamp="1716222232363" />
+    <state width="1237" height="100" key="GridCell.Tab.0.left" timestamp="1716222232363">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state width="987" height="143" key="GridCell.Tab.0.right/0.0.1280.672@0.0.1280.672" timestamp="1716035046915" />
-    <state width="987" height="143" key="GridCell.Tab.1.bottom" timestamp="1716035046915">
+    <state width="1237" height="100" key="GridCell.Tab.0.left/0.0.1280.672@0.0.1280.672" timestamp="1716222232363" />
+    <state width="1237" height="100" key="GridCell.Tab.0.right" timestamp="1716222232363">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state width="987" height="143" key="GridCell.Tab.1.bottom/0.0.1280.672@0.0.1280.672" timestamp="1716035046915" />
-    <state width="987" height="143" key="GridCell.Tab.1.center" timestamp="1716035046915">
+    <state width="1237" height="100" key="GridCell.Tab.0.right/0.0.1280.672@0.0.1280.672" timestamp="1716222232363" />
+    <state width="1237" height="100" key="GridCell.Tab.1.bottom" timestamp="1716222232364">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state width="987" height="143" key="GridCell.Tab.1.center/0.0.1280.672@0.0.1280.672" timestamp="1716035046915" />
-    <state width="987" height="143" key="GridCell.Tab.1.left" timestamp="1716035046915">
+    <state width="1237" height="100" key="GridCell.Tab.1.bottom/0.0.1280.672@0.0.1280.672" timestamp="1716222232364" />
+    <state width="1237" height="100" key="GridCell.Tab.1.center" timestamp="1716222232363">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state width="987" height="143" key="GridCell.Tab.1.left/0.0.1280.672@0.0.1280.672" timestamp="1716035046915" />
-    <state width="987" height="143" key="GridCell.Tab.1.right" timestamp="1716035046915">
+    <state width="1237" height="100" key="GridCell.Tab.1.center/0.0.1280.672@0.0.1280.672" timestamp="1716222232363" />
+    <state width="1237" height="100" key="GridCell.Tab.1.left" timestamp="1716222232363">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state width="987" height="143" key="GridCell.Tab.1.right/0.0.1280.672@0.0.1280.672" timestamp="1716035046915" />
-    <state width="987" height="143" key="GridCell.Tab.2.bottom" timestamp="1716035046915">
+    <state width="1237" height="100" key="GridCell.Tab.1.left/0.0.1280.672@0.0.1280.672" timestamp="1716222232363" />
+    <state width="1237" height="100" key="GridCell.Tab.1.right" timestamp="1716222232364">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state width="987" height="143" key="GridCell.Tab.2.bottom/0.0.1280.672@0.0.1280.672" timestamp="1716035046915" />
-    <state width="987" height="143" key="GridCell.Tab.2.center" timestamp="1716035046915">
+    <state width="1237" height="100" key="GridCell.Tab.1.right/0.0.1280.672@0.0.1280.672" timestamp="1716222232364" />
+    <state width="1237" height="100" key="GridCell.Tab.2.bottom" timestamp="1716222232364">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state width="987" height="143" key="GridCell.Tab.2.center/0.0.1280.672@0.0.1280.672" timestamp="1716035046915" />
-    <state width="987" height="143" key="GridCell.Tab.2.left" timestamp="1716035046915">
+    <state width="1237" height="100" key="GridCell.Tab.2.bottom/0.0.1280.672@0.0.1280.672" timestamp="1716222232364" />
+    <state width="1237" height="100" key="GridCell.Tab.2.center" timestamp="1716222232364">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state width="987" height="143" key="GridCell.Tab.2.left/0.0.1280.672@0.0.1280.672" timestamp="1716035046915" />
-    <state width="987" height="143" key="GridCell.Tab.2.right" timestamp="1716035046915">
+    <state width="1237" height="100" key="GridCell.Tab.2.center/0.0.1280.672@0.0.1280.672" timestamp="1716222232364" />
+    <state width="1237" height="100" key="GridCell.Tab.2.left" timestamp="1716222232364">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state width="987" height="143" key="GridCell.Tab.2.right/0.0.1280.672@0.0.1280.672" timestamp="1716035046915" />
+    <state width="1237" height="100" key="GridCell.Tab.2.left/0.0.1280.672@0.0.1280.672" timestamp="1716222232364" />
+    <state width="1237" height="100" key="GridCell.Tab.2.right" timestamp="1716222232364">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1237" height="100" key="GridCell.Tab.2.right/0.0.1280.672@0.0.1280.672" timestamp="1716222232364" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1716220681336">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.672@0.0.1280.672" timestamp="1716220681336" />
     <state x="122" y="50" key="MergeDialog" timestamp="1716211600224">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
@@ -328,6 +388,10 @@
       <screen x="0" y="0" width="1280" height="672" />
     </state>
     <state x="233" y="70" key="Vcs.Push.Dialog.v2/0.0.1280.672@0.0.1280.672" timestamp="1716034502516" />
+    <state x="358" y="148" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1716217596658">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="358" y="148" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.672@0.0.1280.672" timestamp="1716217596658" />
     <state x="339" y="39" width="603" height="594" key="find.popup" timestamp="1716018355467">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
@@ -340,9 +404,9 @@
       <screen x="0" y="0" width="1280" height="672" />
     </state>
     <state x="187" y="97" width="1093" height="549" key="new project wizard/0.0.1280.672@0.0.1280.672" timestamp="1716032904690" />
-    <state x="303" y="-1" key="search.everywhere.popup" timestamp="1716018350353">
+    <state x="428" y="-1" key="search.everywhere.popup" timestamp="1716218390786">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state x="303" y="-1" key="search.everywhere.popup/0.0.1280.672@0.0.1280.672" timestamp="1716018350353" />
+    <state x="428" y="-1" key="search.everywhere.popup/0.0.1280.672@0.0.1280.672" timestamp="1716218390786" />
   </component>
 </project>

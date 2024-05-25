@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.shop.admin.common.dal.mapper.voucher.VoucherTemplateMapper">
+
+    <resultMap id="baseResultMap" type="com.shop.admin.common.dal.domain.voucher.VoucherTemplateDO">
+        <result property="voucherNote" column="voucher_note" javaType="com.alibaba.fastjson.JSONObject" jdbcType="BLOB" />
+        <result property="voucherButton" column="voucher_button" javaType="com.alibaba.fastjson.JSONObject" jdbcType="BLOB" />
+        <result property="voucherName" column="voucher_name" javaType="com.alibaba.fastjson.JSONObject" jdbcType="BLOB" />
+        <result property="voucherDetail" column="voucher_detail" javaType="com.alibaba.fastjson.JSONObject" jdbcType="BLOB" />
+        <result property="terms" column="terms" javaType="com.alibaba.fastjson.JSONObject" jdbcType="BLOB" />
+        <result property="bannerImages" column="banner_images" javaType="com.alibaba.fastjson.JSONObject" jdbcType="BLOB" />
+    </resultMap>
+
+
+</mapper>
